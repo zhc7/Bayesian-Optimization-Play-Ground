@@ -1,4 +1,10 @@
-# default
+# Bayesian Optimization Playground
+
+https://bopg.vercel.app/
+
+Demonstrates Bayesian Optimization.
+
+![image](https://github.com/user-attachments/assets/3590d1c4-a06c-484c-b96b-039eace2a9e7)
 
 ## Project setup
 
